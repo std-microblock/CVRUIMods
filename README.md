@@ -2,7 +2,7 @@
 
 Feel free to make PRs!!
 
-[UI Mod Loader](https://github.com/MicroCBer/CVRUIMods)
+[UI Mod Loader](https://github.com/MicroCBer/CVRUIModLoader)
 
 ## ModList
 
